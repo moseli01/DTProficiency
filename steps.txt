@@ -1,4 +1,6 @@
-    Create an account at github.com. I recommend using your Luther email address. Your school email allows you to have unlimited private repositories (and some additional perks) as a student.
+Barbara Lynn Herzstein, better known as Barbara Hershey, is an American actress. In a career spanning more than 50 years, 
+she has played a variety of roles on television and in cinema in several genres, including westerns and comedies
+Create an account at github.com. I recommend using your Luther email address. Your school email allows you to have unlimited private repositories (and some additional perks) as a student.
     Create a new Git repository at GitHub. The name is not important, but you may want to include the course name or number in it.
     Clone the repository on your Linux machine.
     Create and edit a new text file with a description of the steps you are taking to complete this assignment.
